@@ -1,6 +1,6 @@
 ### Hello There,<img src="https://github.com/svr666/svr666/blob/master/gifs/Hi.gif" width="30px">This is Hacker Jr
 
-[![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/Hacker-Jr-TG) [![telegram badge](https://img.shields.io/badge/Hacker Jr-30302f?style=flat&logo=telegram)](https://telegram.dog/Hacker_Jr) [![Generic badge](https://img.shields.io/badge/KERALA ROCKERS@-RED.svg)](https://telegram.dog/KERALA_ROCKERS)
+[![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/Hacker-Jr-TG)] [![telegram badge](https://img.shields.io/badge/Hacker Jr-30302f?style=flat&logo=telegram)](https://telegram.dog/Hacker_Jr)] [![Generic badge](https://img.shields.io/badge/KERALA ROCKERS@-RED.svg)](https://telegram.dog/KERALA_ROCKERS)]
 
 - 🔭 I’m currently working on Mirroring-projects
 - 🌱 I’m currently learning Python+Bash
