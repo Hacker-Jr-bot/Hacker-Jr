@@ -1,5 +1,7 @@
 ### Hi,<img src="https://github.com/svr666/svr666/blob/master/gifs/Hi.gif" width="30px">I'm Hacker Jr
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Hacker Jr+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Student+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+am+a+small+developer+%F0%9F%93%88;Please+Support+and+Follow+%E2%9A%99%EF%B8%8F" alt="Hacker Jr" width="650" height="55">
+
 [![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/Hacker-Jr-TG) [![telegram badge](https://img.shields.io/badge/Telegram-Hacker%20Jr-blue)](https://telegram.dog/Hacker_Jr)  [![telegram badge](https://img.shields.io/badge/TG%20CHANNEL-KERALA%20ROCKERS-blueviolet)](https://telegram.dog/Team_KL)
  [![telegram badge](https://img.shields.io/badge/TG%20Group-KL%20GROUP-orange)](https://telegram.dog/KL_Group1)   
 
