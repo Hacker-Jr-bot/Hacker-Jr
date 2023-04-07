@@ -1,4 +1,4 @@
-### <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Hacker+Jr+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Student+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+am+a+small+developer+%F0%9F%93%88;Please+Support+and+Follow+%E2%9A%99%EF%B8%8F" alt="CyberTG" width="650" height="55">
+### <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Hacker+Jr+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Student+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India+,+Kerala+%F0%9F%87%AE%F0%9F%87%B3;I+am+a+small+developer+%F0%9F%93%88;Please+Support+and+Follow+%E2%9A%99%EF%B8%8F" alt="Hacker" width="650" height="55">
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hacker-jr-tg&show_icons=true&theme=radical">
