@@ -3,6 +3,17 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hacker-jr-tg&show_icons=true&theme=radical">
 
+
+<p align="right">
+<img alt="programing gif" align="right" width=300px src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
+
+<p align="center"> 
+<img src="https://github-stats-alpha.vercel.app/api/?username=Hacker-Jr-TG&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+</p>
+
+
+
+
 #####
 
 <h3 align="left">Tools I Love & Learning 👨‍💻</h3>
