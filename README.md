@@ -5,10 +5,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hacker-Jr-TG&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-Jr-TG&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width=30px height=30px>&nbsp;***About me***
+<b>• 👨‍💻 Lᴀɴɢᴜᴀɢᴇs: Pʏᴛʜᴏɴ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ, Gᴏʟᴀɴɢ, C++
 
 <p align="right">
 <img alt="programing gif" align="right" width=300px src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
 
-<p align="center"> 
-<img src="https://github-stats-alpha.vercel.app/api/?username=Hacker-Jr-TG&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
-</p>
